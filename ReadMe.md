@@ -1,1 +1,1 @@
-template
+This is a repository to store all my personal react native projects im training on. Hi :)
